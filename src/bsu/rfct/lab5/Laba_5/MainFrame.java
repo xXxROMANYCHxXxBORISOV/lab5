@@ -21,8 +21,8 @@ import javax.swing.JOptionPane;
 
 
 public class MainFrame extends JFrame {
-    private static final int WIDTH = 700;
-    private static final int HEIGHT = 500;
+    private static final int WIDTH = 800;
+    private static final int HEIGHT = 600;
     private JFileChooser fileChooser = null;
     private JMenuItem resetGraphicsMenuItem;
     private GraphicsDisplay display = new GraphicsDisplay();
